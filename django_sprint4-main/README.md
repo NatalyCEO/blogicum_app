@@ -34,5 +34,3 @@ python manage.py runserver
 
 ![GitHub top language](https://img.shields.io/github/languages/top/VilmenAbramian/blogicum-3)
 
-Финальный проект 8го спринта курса Python разработчик плюс.
-Изначальное имя: django_sprint4
