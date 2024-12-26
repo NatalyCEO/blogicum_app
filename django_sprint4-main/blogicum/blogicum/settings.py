@@ -31,6 +31,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'www.vilmen.pythonanywhere.com',
     'vilmen.pythonanywhere.com',
+    'localhost',
+    '127.0.0.1',
 ]
 
 
